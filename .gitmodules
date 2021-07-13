@@ -1,0 +1,4 @@
+[submodule "intpath/purchase_team_app"]
+	path = intpath/purchase_team_app
+	url = git@github.com:intpath/purchase_team_app.git
+	branch = master
